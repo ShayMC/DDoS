@@ -1,5 +1,5 @@
 
-Flood v1.0 (c) 2017 by Shay Cohen - Please do not use this program for illegal uses.
+Flood v1.0 (c) 2017 by ShayMC - Please do not use this program for illegal uses.
 
 Flood is a tool involves sending many SYN packets to a specific target.
 A Distributed Denial of Service (DDoS) attack is an attempt to make an online
